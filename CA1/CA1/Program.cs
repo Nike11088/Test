@@ -11,6 +11,8 @@ namespace CA1
         static void Main(string[] args)
         {
             Console.WriteLine("*****WELCOME!*****");
+            for (int i = 1; i <= 10; i++)
+                Console.WriteLine(i);
             Console.ReadLine();
         }
     }
