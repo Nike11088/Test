@@ -10,6 +10,8 @@ namespace CA1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("*****WELCOME!*****");
+            Console.ReadLine();
         }
     }
 }
