@@ -12,9 +12,10 @@ namespace CA1
         {
             char[] a = new char[] { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'j', 'k' };
 
-            Console.WriteLine("*****WELCOME!*****");
+            Console.WriteLine("*****WELCOME EVERYBODY!*****");
             for (int i = 0; i < 10; i++)
                 Console.WriteLine("{0} - {1}", i, a[i]);
+
             Console.ReadLine();
         }
     }

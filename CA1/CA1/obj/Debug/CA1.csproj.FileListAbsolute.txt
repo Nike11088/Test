@@ -4,3 +4,9 @@ D:\1\Test\CA1\CA1\bin\Debug\CA1.pdb
 D:\1\Test\CA1\CA1\obj\Debug\CA1.csprojResolveAssemblyReference.cache
 D:\1\Test\CA1\CA1\obj\Debug\CA1.exe
 D:\1\Test\CA1\CA1\obj\Debug\CA1.pdb
+D:\2\Test\CA1\CA1\bin\Debug\CA1.exe.config
+D:\2\Test\CA1\CA1\obj\Debug\CA1.exe
+D:\2\Test\CA1\CA1\obj\Debug\CA1.pdb
+D:\2\Test\CA1\CA1\bin\Debug\CA1.exe
+D:\2\Test\CA1\CA1\bin\Debug\CA1.pdb
+D:\2\Test\CA1\CA1\obj\Debug\CA1.csprojResolveAssemblyReference.cache
